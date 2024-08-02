@@ -12,3 +12,11 @@ vsc-extension-quickstart.md
 **/*.map
 **/*.ts
 **/.vscode-test.*
+.aider*
+.aider*/**
+biome.json
+justfile
+*.code-workspace
+.node-version
+.env
+
