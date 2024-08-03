@@ -1,9 +1,13 @@
 {
 	"name": "timer-reminder",
 	"description": "ensures a harvest timer is running",
-	"version": "0.0.1",
-	"activationEvents": ["onStartupFinished"],
-	"categories": ["Other"],
+	"version": "0.0.2",
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"categories": [
+		"Other"
+	],
 	"contributes": {
 		"commands": [
 			{
