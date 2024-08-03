@@ -12,7 +12,7 @@ this is a companion app and only reads state to indicate if a timer isn't runnin
 
 ## install
 
-get the extension on the vscode extension marketplace:
+get the extension on the vscode extension marketplace:  
 https://marketplace.visualstudio.com/items?itemName=schpet.timer-reminder
 
 or install it via cli:
@@ -21,7 +21,7 @@ or install it via cli:
 code --install-extension schpet.timer-reminder
 ```
 
-you'll need a harvest ‘personal access token’, these can be created at
+you'll need a harvest ‘personal access token’, these can be created at  
 https://id.getharvest.com/developers
 
 ## usage
