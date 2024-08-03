@@ -12,7 +12,7 @@ this is a companion app and only reads state to indicate if a timer isn't runnin
 
 ## install
 
-get the extension on the vscode extension marketplace:  
+get the extension on the vscode extension marketplace:
 https://marketplace.visualstudio.com/items?itemName=schpet.timer-reminder
 
 or install it via cli:
@@ -21,12 +21,18 @@ or install it via cli:
 code --install-extension schpet.timer-reminder
 ```
 
-you'll need a harvest ‘personal access token’, these can be created at  
+you'll need a harvest ‘personal access token’, these can be created at
 https://id.getharvest.com/developers
 
 ## usage
 
-_TODO_
+to set up a project:
+
+1. open the command palette with <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>P</kbd> (on macOS) or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (on Windows/Linux)
+2. type "timer reminder" and select "Timer Reminder: set harvest project" from the list
+3. follow the prompts to select your harvest project
+
+this will associate your current workspace with the selected harvest project
 
 ## assumptions
 
