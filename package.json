@@ -1,7 +1,7 @@
 {
 	"name": "timer-reminder",
 	"description": "ensures a harvest timer is running",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"activationEvents": [
 		"onStartupFinished"
 	],
